@@ -1,2 +1,2 @@
-# first_lab_-Key-Value-Store-Redis-
+# first_lab
 Key-Value Store з Redis
